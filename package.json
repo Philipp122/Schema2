@@ -1,12 +1,12 @@
 {
   "name": "schema",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "JSON Schema Validation in JS",
   "main": "index.js",
   "author": "Philipp Steckenbauer <philipp@steckenbauer.com>",
   "license": "MIT",
   "dependencies": {
-    "@philipp122/totype": "^1.0.1",
-    "lodash.chunk": "^4.2.0"
-  }
+    "@philipp122/totype": "^1.0.1"
+  },
+  "devDependencies": {}
 }
